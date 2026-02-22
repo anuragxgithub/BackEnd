@@ -1,0 +1,20 @@
+{
+  "name": "startingwithbackend",
+  "version": "1.0.0",
+  "description": "getting started with backend. Jai shree krishna.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "backend",
+    "start"
+  ],
+  "author": "Anurag",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1"
+  }
+}
